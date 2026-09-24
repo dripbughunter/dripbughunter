@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name]
+# Hi, I’m Devsam
 
 I’m an open-source contributor building practical skills in technical documentation, web development, and Rust/Soroban.
 
